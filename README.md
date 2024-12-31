@@ -7,4 +7,3 @@ Rework of last freelance project
 - Docker container
 - Two machines with balancer
 - No downtime on release
-- 
